@@ -8,7 +8,7 @@ This repository implements and compares **five different data structures** for c
 4. **Bloom Filter** (`O(k)`)
 5. **Cuckoo Filter** (`O(1)`)
 
-We analyze the runtime and space complexity of each approach and visualize their performance across different dataset sizes.
+We analyze the time complexity of each data structure and visualize their performance across different dataset sizes. Here, `n` is the number of usernames and `k` is the number of hash functions used in Bloom filters.
 
 ---
 
